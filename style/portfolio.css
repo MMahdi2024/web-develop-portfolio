@@ -67,10 +67,11 @@ nav li {
     max-width: 500px;
 
 }
+
 .banner-greeting {
     font-size: 45px;
-    color:#474747 ;
-    
+    color: #474747;
+
 
 }
 
@@ -81,26 +82,45 @@ nav li {
     margin-top: 5px;
 
 }
-.banner-description{
+
+.banner-description {
     color: #181818;
 }
-.about{
-    padding: 130px;
+
+main {
+    max-width: 1140px;
+
+}
+
+.about {
+    padding: 60px;
     margin-top: 50px;
     background-color: #f8ede6;
-    width: 300px;
-    background-position-x: center;
+    width: 600px;
     border-radius: 20px;
-   
+
+
 }
-.about-title{
+
+.about-title {
 
     text-align: center;
+    justify-content: center;
 }
 
-.about-description{
-   
-    color:black;
- 
-    
+.about-description {
+
+    color: black;
+
+
 }
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    text-align: center;
+
+
+}
+
