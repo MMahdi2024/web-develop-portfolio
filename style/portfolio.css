@@ -152,9 +152,19 @@ main {
     text-align: left;
     width: 400px;
     border: 2px solid chartreuse;
+    
 
 }
+.section-title{
+    text-align: center;
+}
+
 
 .resume-container{
     display: flex;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 100px;
 }
